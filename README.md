@@ -36,3 +36,10 @@ import pickle as pc
 with open('data/kmre_train', 'rb') as f:
     kmre_train_data = pc.load(f)
 ```
+
+## Contact
+
+If you have any questions or comments, please send an email to the contact you want below.
+
+- KAIST E-mail: yj2961@kaist.ac.kr
+- Gmail: passing2961@kaist.ac.kr
