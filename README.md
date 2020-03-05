@@ -4,11 +4,13 @@
 
 We develop a large-scale emotion-labeled dataset, called the Korean Movie Review Emotion (KMRE) dataset. The method for constructing this dataset is described in detail in our paper which is accepted by [LREC 2020].
 
+*We will provide our citation format*
+
 ## Overview
 
 [here]: https://github.com/e9t/nsmc
 
-We construct the KMRE dataset annotated with six types of emotions by applying our presented procedure too the Naver Sentiment Movie Corpus (NSMC) in Korean. The detail of NSMC is described in [here].
+We construct the KMRE dataset annotated with six types of emotions by applying our presented procedure to the Naver Sentiment Movie Corpus (NSMC) in Korean. The detail of NSMC is described in [here]. Additionally, we constructed the KMRE dataset by exploiting n-gram-based distant supervision and Korean-specific-features-based distant supervision.
   
 ## Statistics
 
