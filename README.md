@@ -4,7 +4,15 @@
 
 We develop a large-scale emotion-labeled dataset, called the Korean Movie Review Emotion (KMRE) dataset. The method for constructing this dataset is described in detail in our paper which is accepted by [LREC 2020].
 
-*We will provide our citation format*
+<pre>
+@inproceedings{lee2020korean,
+  title={Korean-Specific Emotion Annotation Procedure Using N-Gram-Based Distant Supervision and Korean-Specific-Feature-Based Distant Supervision},
+  author={Lee, Young-Jun and Lim, Chae-Gyun and Choi, Ho-Jin},
+  booktitle={Proceedings of The 12th Language Resources and Evaluation Conference},
+  pages={1603--1610},
+  year={2020}
+}
+</pre>
 
 ## Overview
 
